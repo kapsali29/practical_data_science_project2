@@ -13,12 +13,6 @@
 In this assignment, you will follow the steps of researchers that investigated the value of personal connections in times of financial crisis.
 
 * * *
-
-> Panos Louridas, Associate Professor  
-> Department of Management Science and Technology  
-> Athens University of Economics and Business  
-> louridas@aueb.gr
-
 </div>
 
 </div>
@@ -451,11 +445,6 @@ _Only Jupyter submissions will be accepted. Do not submit plain Python code, the
 
 <div class="text_cell_render border-box-sizing rendered_html">
 
-## Honor Code[¶](#Honor-Code)
-
-You understand that this is an individual assignment, and as such you must carry it out alone. You may seek help on the Internet, by Googling or searching in StackOverflow for general questions pertaining to the use of Python and pandas libraries and idioms. However, it is not right to ask direct questions that relate to the assignment and where people will actually solve your problem by answering them. You may discuss with your fellow students in order to better understand the questions, if they are not clear enough, but you should not ask them to share their answers with you, or to help you by giving specific advice.
-
-Keep in mind that this is so that _you_ should not waste your time and money on this course.
 
 </div>
 
