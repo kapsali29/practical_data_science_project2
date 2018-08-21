@@ -431,7 +431,6 @@ You must submit your assignment as a Jupyter notebook that will contain the full
 
 For the market data, you can use any online source that you prefer, but make sure you document exactly how you got them.
 
-_Only Jupyter submissions will be accepted. Do not submit plain Python code, they will not be graded at all._
 
 </div>
 
